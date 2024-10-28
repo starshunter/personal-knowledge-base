@@ -1,0 +1,22 @@
+- publishers + subscribers = observer pattern
+	- ((621643b0-3078-4804-82ed-9978605cdff9))
+	- ((621649d6-959b-4502-8fd7-f4a5fa4ae40f))
+	  id:: 621643b4-fcd9-44f4-bdf4-3d9cec1b6f3b
+	- ((621649ec-abfa-4756-8cdf-9067f79d5440))
+	- ((621649fb-3fad-4888-9df7-ce1301fe6bb2))
+	- ((62164a19-900f-4255-bf7a-825cfaa214db))
+	- ((62164a28-312d-47c6-8703-314d354057d8))
+	- ((62164a32-0e10-4f2a-8558-1a0e52e895a9))
+- the observer pattern defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are notified and updated automatically
+	- ((6216509f-b8a7-45ad-be8c-2509be19846e))
+	- ((6216514e-5b2c-4cb3-b4c2-6143d84e7344))
+	- ((62165918-c1e1-4be8-b9cc-b932e55ddd12))
+- loosely coupled designs allow us to build flexible OO systems that can handle change because they minimize the interdependency between objects
+	- subject only knows an observer implements a certain interface
+	- we can add new observers at any time
+	- we never need to modify subject to add new types of observers
+	- we can reuse subjects or observers independently of each other
+	- changes to either the subject or an observer will not affect the other
+- instead of pushing changes from subject to observers, subject can just notify the observers that a change has occurred, and let those observers to choose which data to pull from the subject
+- ((62165e10-f3ee-447a-80ca-4cf894ac4e2d))
+- ((62165e31-d86a-4a67-bf40-a32a22e28701))

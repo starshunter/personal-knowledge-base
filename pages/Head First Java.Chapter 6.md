@@ -1,0 +1,5 @@
+- ((624d8cc2-d944-4b77-bb6d-3ff6d2b2ded0))
+- `ArrayList` is an object
+- `&` and `|` always check both sides of the expressions
+- to use a class in the API, we need to know which package the class is in
+	- import it or type it out

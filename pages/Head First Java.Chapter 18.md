@@ -1,0 +1,22 @@
+- Java RMI gives us the client and service helper objects, so that we can invoke remote method as if we are invoking local method
+	- server implementation
+		- make a remote interface
+			- extend `Remote` interface
+			- declare all the remote methods
+			- the return values of the methods must be primitives or serializable
+		- make a remote implementation
+			- implement the remote interface
+			- extend `UnicastRemoteObject`
+			- declare a constructor that will throw exception like `UnicastRemoteObject` does
+			- register the service with the RMI registry
+		- generate the stubs and skeletons using rmic
+		- start the RMI registry
+		- start the remote service
+	- the client lookup the RMI registry for the desired stub
+		- the client also need to have stub class
+- servlets are Java programs that run on an HTTP web server that can be called by the clients
+	- find out where our servlets need to be placed
+	- get the `servlets.jar`
+	- write a servlet class by extending `HttpServlet`
+	- allow servlet invocation through web page
+	- make both our servlet and HTML page available to our server

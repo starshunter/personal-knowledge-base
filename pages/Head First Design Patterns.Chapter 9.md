@@ -1,0 +1,12 @@
+- iterator pattern relies on an interface called iterator
+	- ((621f6a1e-713f-4558-8c2d-c17ba64292b4))
+	- ((621f6aeb-40fa-4c8c-9dd4-0e6dcfec7a1c))
+- the iterator pattern provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation
+	- the responsibility of traversing elements is on iterator object, not aggregate object, so aggregate object can focus on its duty
+	- ((621f9246-66ab-49b0-9af4-9ce5b0a7f08f))
+- a class should have only one reason to change
+	- every responsibility of a class is an area of potential change
+- the composite pattern alows you to compose objects into tree structures to represent part-whole hierarchies, composite lets clients treat individual objects and compositions of objects uniformly
+	- we can ignore the differences between compositions of objects and individual objects
+	- ((621fae6a-a43a-4915-92a4-48f0dbf8602a))
+- ((621fb139-2257-4469-b1b6-fe31894aec71))

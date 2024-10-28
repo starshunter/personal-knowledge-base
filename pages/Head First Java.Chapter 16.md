@@ -1,0 +1,15 @@
+- we can use `Collection.sort()` to sort collections with primitive elements
+- with generics, we can create type-safe collections where more problems are caught at compile time instead of runtime
+- a generic class means that the class declaration includes a type parameter, a generic method means that the method declaration uses a type parameter in its signature
+	- we can even use a type parameter that was not defined in the class declaration
+- in generics, `extends` means `extend` or `implements`
+- to allow the collection of our custom type to be sorted by `Collection.sort()`, our custom type must implement `Comparable` interface
+	- or we can pass our custom `Comparator` to the method
+- ((625973e4-3bc7-4f04-a751-2e9b00bad005))
+- to let a `Set` to treat two objects as duplicates, we must override the `hashCode()` and `equals()` methods inherited from class `Object`, so that we can make two different objects be viewed as equal
+	- two different objects can have same `hashcode`
+- `TreeSet` elements must be comparable
+	- or construct `TreeSet` by passing a comparator into its constructor
+- array types are checked again at runtime, but collection type checks happen only when we compile
+- using wildcard can create a method that can take collection with element of a class or its subclasses
+	- but wildcard will stop us from doing anything that could hurt the collection referenced by the method parameter

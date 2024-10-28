@@ -1,0 +1,9 @@
+- the template method pattern defines the skeleton of an algorithm in a method, deferring some steps to subclasses, template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure
+	- ((621e35e0-ab05-444a-9f6f-cff8da77e093))
+	- abstract class can offer hooks with default implementation, and subclasses can hook into algorithm at various points
+	- use abstract methods when subclass must provide an implementation of the method, and use hooks when when that part of the algorithm is optional
+- don't call us, we'll call you
+	- prevent from creating dependency cycle
+	- allows low level components to hook into a system, and high level components determine when they are needed
+	- ((621e42a5-4f30-499f-8e02-171f8064436d))
+- ((621e4951-1717-49ae-9553-9949e883b0e8))

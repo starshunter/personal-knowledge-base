@@ -1,0 +1,14 @@
+- `static` lets a method run without any instance of the class
+	- it means that method's behavior doesn't depend on an instance varaible
+	- static methods can't use non-static instance variables and methods
+	- we can call static method on a reference variable, but the code can be misleading
+- all instances of the same class share a single copy of the static variables
+	- static variables are initialized when a class is loaded
+	- static variables in a class are initialized before any object of that class is created or any static method of that class runs
+	- like instance variables, static variables are assigned to default values if they are not initialized
+	- a variable marked `final` means that once it is initialized, it can never change
+	- ((6252ccf0-e383-4a0a-bc00-489ab613fb19))
+- a final variable means we can't change it's value, a final method means we can't override the method, a final class means we can't extend the class
+- when we need to treat a primitive like an object, wrap it
+- autoboxing make the conversion between primitives and objects easy
+	- it lest us use either a primitive or its wrapper type anywhere one or the other is expected

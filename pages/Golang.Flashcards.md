@@ -1,0 +1,1 @@
+- {{embed [[The Go Workshop/Flashcards]]}}

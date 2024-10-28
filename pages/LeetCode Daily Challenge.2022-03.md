@@ -1,0 +1,33 @@
+- 7 easy, 21 medium, 3 hard
+- 13 problems were solved for the first time
+- [Counting Bits](((6233f291-ec16-4015-98ef-d754371c02f6))) is a bit manipulation problem that we need to count the number of trailing ones for each number
+- [Is Subsequence](((6233f291-e883-42f7-a028-1e8431733795))) could be solved in DP, but one dimensional DP is a little bit tricky
+- [Arithmetic Slices](((6233f291-75ce-48fa-9c26-76d8bae7405d))) can be solved using a variable to record current length of subarray that satisfies the condition
+- [Champagne Tower](((6233f291-259f-4773-927f-a05908438dc3))) is a problem that I completely missed the direction of the solution, should have simulate the whole process and pour all the champagne into the first glass
+- [Delete and Earn](((6233f291-44ed-4fa3-8add-43fb33e791df))) has concept like [House Robber](https://leetcode.com/problems/house-robber/), we need to find the maximum number in the array, and try to do DP from one to maximum
+- [Count All Valid Pickup and Delivery Options](((6233f291-2dac-446c-b01d-23fabc8935d6))) is a classic permutation problem, but we need to be careful of the overflow problem
+- [Merge Two Sorted Lists](((6233f291-4d55-421e-af9c-45c350fa810f))) is easy to solved, just keep the heads of two lists, and take the smaller one
+- [Linked List Cycle](((6233f291-3dba-4f38-be9d-746e8d8ca751))) is a classic two pointers problem, but need to be careful of the loop condition
+- [Remove Duplicates from Sorted List II](((6233f291-87f4-4035-812d-d9b1b1f7ce8f))) can be solved using two pointers, but need to check if we already reach the end while removing duplicates
+- [Add Two Numbers](((6233f291-0b15-48c9-8391-ddd24a77d761))) can be solved using recursion, but remember to add additional node when the final digit is finished and carry doesn't equal to zero
+- [Rotate List](((6233f292-6fb3-4288-b5d1-96d2dd9fdbb5))) can be solved after connecting the tail to  head, moving the head to correct position and breaking the link
+- [Copy List with Random Pointer](((6233f292-4af0-47b8-b291-27cb85cad91b))) need to be solved using three iterations
+- [Valid Parentheses](((624219a1-5076-44df-a74e-0e194374da33))) is easy to solve using stack, although the code is a little ugly
+- [Simplify Path](((624219a1-fc3d-4d3a-bea7-a68ba2e37cb4))) need to use some string operations, which are trivial but annoying
+- [Minimum Remove to Make Valid Parentheses](((624219a2-931e-4411-a970-ed1c0a93e6f9))) can be solved using only one iteration
+- [Validate Stack Sequences](((624219a2-3b73-42c5-a507-55902623fbf6))) can be solved using two pointers and a stack to simulate the process
+- [Score of Parentheses](((624219a2-1fdd-4bb7-a2bf-6a2e3911bbc2))) couldn't be solved by myself, need to solve it using local context next time
+- [Remove Duplicate Letters](((624219a2-a7fc-462f-95de-bbd62e89c870))) has a clever solution using two hash tables
+- [Maximum Frequency Stack](((624219a2-28af-4449-a402-c3fb9a577c6d))) is tricky, instead of tracking each number's frequency, we track each frequency has which number
+- [Minimum Domino Rotations For Equal Row](((624219a2-d410-40e7-8710-f270d52fa3f2))) has straightforward solution, but I should write a more efficient solution next time
+- [Partition Labels](((624219a2-ef8c-44c1-b5ac-5a32f514d365))) can be solved after constructing the interval for each number, but it also can be solved using purely this concept, without actually constructing the intervals
+- [Smallest String With A Given Numeric Value](((624219a2-7fd0-40fc-86cc-a9b2f9ee7a94))) is easy to solve, but current solution need a if condition
+- [Broken Calculator](((624219a3-77ce-4329-8952-aa9c92ef3022))) can be solved by doing the reverse of what the problem asks us to do, and we can proof why our method is optimal
+- [Boats to Save People](((624219a3-db5a-4cf3-85a1-243f5fe5b484))) can be solved using greedy method, need to get my brain accustomed to this kind of thinking
+- [Two City Scheduling](((624219a3-b56b-43ff-a613-8a7f3e235801))) is a very easy problem
+- [Binary Search](((624219a3-fe31-4084-8d48-d6d68a3b5d64))) is a problem with basic binary search
+- [The K Weakest Rows in a Matrix](((624219a3-1705-4b74-8ab9-1c0c77d24dac))) can be solved using very intuitive method, but use binary search and heap can improve the performance
+- [Search in Rotated Sorted Array II](((62421af5-1165-4ccf-ad93-6f4e32976cfd))) is tricky, we should do binary search, and compare the middle element to left boundary
+- [Find the Duplicate Number](((624373a7-a253-4ea6-9799-41c3794d3ed0))) can be solved using binary search, but cycle detection is the best
+- [Search a 2D Matrix](((b23104a3-767e-4567-bf6c-4d4a6bcaf6a6))) is easy to solve if we treat the given matrix as a sorted array
+- [Split Array Largest Sum](((1385a141-c0f4-440b-a7d2-0ea7c8d0d0a9))) is a typical DP problem, but I complicated it

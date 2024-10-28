@@ -1,0 +1,14 @@
+- classes should be open for extension, but closed for modification
+  id:: 621795e4-2850-4770-87b4-8dcff63087a3
+	- allow classes to be easily extended to incorporate new behavior without modifying existing code
+	- to achieve this, we need to design our classes that are resilient to change but flexible to take on new functionality
+- properties of decorators
+	- decorators have the same supertype as the objects they decorate
+	- you can use one or more decorators to wrap an object
+	- we can pass around a decorated object in place of the original object
+	- decorators add theirs own behavior before or after delegating to the object it decorates
+	- we can decorate objects dynamically at runtime
+- the decorator pattern attaches additional responsibilities to an object dynamically, and decorators provide a flexible alternative to subclassing for extending functionality
+	- ((6217ab06-f818-45a9-9685-604e1d5a2431))
+	- ((6217b11d-31a7-4c58-a3b8-955fe303008b))
+- ((6217bec9-4755-430d-8a49-65000a2b2269))

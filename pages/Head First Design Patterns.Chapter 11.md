@@ -1,0 +1,13 @@
+- a remote proxy acts as a local representative to a remote object
+	- we call call local methods on and have them forwarded on to the remote object
+	- ((62220a53-b8ff-4e61-8ea5-7aef753b638b))
+- the proxy pattern provides a surrogate or placeholder for another object to control access to it
+	- remote proxy controls access to a remote object
+	- virtual proxy controls access to a resource that is expensive to create
+	- protection proxy controls access to a resource based on access rights
+	- ((62221a46-90ba-4b2b-92b4-22e8a6ab2c1e))
+- the virtual proxy acts as a representative for an object that may be expensive to create
+	- defers the creation of the object until it is needed
+	- ((62221ae9-edee-485b-8d4c-2d1d03998364))
+- protection proxy controls access to an object based on access rights
+- ((62223d6b-9710-4861-aa69-b4c32db7ab9a))

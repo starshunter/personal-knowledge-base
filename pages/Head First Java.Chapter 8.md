@@ -1,0 +1,16 @@
+- some classes should not be instantiated
+	- use `abstract` keyword in front of class declaration to make a class unable to instantiate
+	- we can still use the abstract type as a reference type
+- method can also be abstract
+	- an abstract method means it must be overridden
+	- an abstract method has no body
+	- if we declare an abstract method, we must make the class abstract as well
+- class Object is the mother of all classes, it's the superclass of everything
+	- any class that doesn't explicitly extend another class, implicitly extends Object
+	- act as a polymorphic type for methods that need to work on any class that we makes
+	- provide real method code that all objects in Java need at runtime
+- the compiler decides whether we can call a method based on the reference type, not the actual object type
+- Java prevents multiple inheritance
+- the interfaces make every method abstract
+- classes from different inheritance tress can implement the same interface
+- ((62505301-1031-4b58-afa4-5bf20ad18d2c))

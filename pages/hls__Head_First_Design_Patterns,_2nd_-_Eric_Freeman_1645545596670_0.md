@@ -1,0 +1,243 @@
+file:: [Head_First_Design_Patterns,_2nd_-_Eric_Freeman_1645545596670_0.pdf](../assets/Head_First_Design_Patterns,_2nd_-_Eric_Freeman_1645545596670_0.pdf)
+file-path:: ../assets/Head_First_Design_Patterns,_2nd_-_Eric_Freeman_1645545596670_0.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 100
+  id:: 62150d63-b077-4ff2-9dd7-45e4767ebc79
+  hl-type:: area
+  hl-stamp:: 1645546850270
+- [:span]
+  ls-type:: annotation
+  hl-page:: 102
+  id:: 62150dd0-a25b-4603-9e93-85c3a90b3e55
+  hl-type:: area
+  hl-stamp:: 1645546960048
+- [:span]
+  ls-type:: annotation
+  hl-page:: 107
+  id:: 62151357-bbf3-4a22-9809-4ea9c8d8f758
+  hl-type:: area
+  hl-stamp:: 1645548374085
+- [:span]
+  ls-type:: annotation
+  hl-page:: 108
+  id:: 6215147c-17fa-4ee4-b2ce-ef22a6f49829
+  hl-type:: area
+  hl-stamp:: 1645548666879
+- [:span]
+  ls-type:: annotation
+  hl-page:: 110
+  id:: 621517c1-ec54-4173-97fe-c36979450e21
+  hl-type:: area
+  hl-stamp:: 1645549504286
+- [:span]
+  ls-type:: annotation
+  hl-page:: 111
+  id:: 62151810-7195-4de1-80ef-c11d9da25ef1
+  hl-type:: area
+  hl-stamp:: 1645549582197
+- [:span]
+  ls-type:: annotation
+  hl-page:: 119
+  id:: 62151a50-1c2f-4e3d-a3e3-063719f4288c
+  hl-type:: area
+  hl-stamp:: 1645550159194
+- [:span]
+  ls-type:: annotation
+  hl-page:: 129
+  id:: 62151e6f-6b14-47a8-9a10-010e34e2ffb9
+  hl-type:: area
+  hl-stamp:: 1645551214398
+- [:span]
+  ls-type:: annotation
+  hl-page:: 143
+  id:: 621643b0-3078-4804-82ed-9978605cdff9
+  hl-type:: area
+  hl-stamp:: 1645626287573
+- [:span]
+  ls-type:: annotation
+  hl-page:: 143
+  id:: 621649d6-959b-4502-8fd7-f4a5fa4ae40f
+  hl-type:: area
+  hl-stamp:: 1645627861015
+- [:span]
+  ls-type:: annotation
+  hl-page:: 144
+  id:: 621649ec-abfa-4756-8cdf-9067f79d5440
+  hl-type:: area
+  hl-stamp:: 1645627883272
+- [:span]
+  ls-type:: annotation
+  hl-page:: 144
+  id:: 621649fb-3fad-4888-9df7-ce1301fe6bb2
+  hl-type:: area
+  hl-stamp:: 1645627898383
+- [:span]
+  ls-type:: annotation
+  hl-page:: 144
+  id:: 62164a19-900f-4255-bf7a-825cfaa214db
+  hl-type:: area
+  hl-stamp:: 1645627928031
+- [:span]
+  ls-type:: annotation
+  hl-page:: 145
+  id:: 62164a28-312d-47c6-8703-314d354057d8
+  hl-type:: area
+  hl-stamp:: 1645627943615
+- [:span]
+  ls-type:: annotation
+  hl-page:: 145
+  id:: 62164a32-0e10-4f2a-8558-1a0e52e895a9
+  hl-type:: area
+  hl-stamp:: 1645627954008
+- [:span]
+  ls-type:: annotation
+  hl-page:: 152
+  id:: 6216509f-b8a7-45ad-be8c-2509be19846e
+  hl-type:: area
+  hl-stamp:: 1645629598069
+- [:span]
+  ls-type:: annotation
+  hl-page:: 153
+  id:: 6216514e-5b2c-4cb3-b4c2-6143d84e7344
+  hl-type:: area
+  hl-stamp:: 1645629773377
+- [:span]
+  ls-type:: annotation
+  hl-page:: 158
+  id:: 62165918-c1e1-4be8-b9cc-b932e55ddd12
+  hl-type:: area
+  hl-stamp:: 1645631766836
+- [:span]
+  ls-type:: annotation
+  hl-page:: 174
+  id:: 62165e10-f3ee-447a-80ca-4cf894ac4e2d
+  hl-type:: area
+  hl-stamp:: 1645633038736
+- [:span]
+  ls-type:: annotation
+  hl-page:: 179
+  id:: 62165e31-d86a-4a67-bf40-a32a22e28701
+  hl-type:: area
+  hl-stamp:: 1645633072333
+- [:span]
+  ls-type:: annotation
+  hl-page:: 194
+  id:: 6217ab06-f818-45a9-9685-604e1d5a2431
+  hl-type:: area
+  hl-stamp:: 1645718276827
+- [:span]
+  ls-type:: annotation
+  hl-page:: 195
+  id:: 6217b11d-31a7-4c58-a3b8-955fe303008b
+  hl-type:: area
+  hl-stamp:: 1645719836395
+- [:span]
+  ls-type:: annotation
+  hl-page:: 209
+  id:: 6217bec9-4755-430d-8a49-65000a2b2269
+  hl-type:: area
+  hl-stamp:: 1645723335862
+- [:span]
+  ls-type:: annotation
+  hl-page:: 216
+  id:: 6218db46-a4b2-4fb0-95b1-61b92c87b0ec
+  hl-type:: area
+  hl-stamp:: 1645796165371
+- [:span]
+  ls-type:: annotation
+  hl-page:: 240
+  id:: 6218ff69-6275-49b1-9108-94fdfe17adcb
+  hl-type:: area
+  hl-stamp:: 1645805416545
+- [:span]
+  ls-type:: annotation
+  hl-page:: 246
+  id:: 6219058c-7efa-4f75-8886-b2308969cf5e
+  hl-type:: area
+  hl-stamp:: 1645806987684
+- [:span]
+  ls-type:: annotation
+  hl-page:: 260
+  id:: 6219092d-7297-457c-b5e1-fdc524eaed4b
+  hl-type:: area
+  hl-stamp:: 1645807915655
+- [:span]
+  ls-type:: annotation
+  hl-page:: 263
+  id:: 621909ca-3257-47b9-b976-e9e885ef45a2
+  hl-type:: area
+  hl-stamp:: 1645808073478
+- [:span]
+  ls-type:: annotation
+  hl-page:: 267
+  id:: 62190b9c-fa6a-451b-9f9a-6bfbd9463ffa
+  hl-type:: area
+  hl-stamp:: 1645808539022
+- [:span]
+  ls-type:: annotation
+  hl-page:: 268
+  id:: 62190ba7-7768-4cb2-8f79-7c7e1ea40d3c
+  hl-type:: area
+  hl-stamp:: 1645808550471
+- [:span]
+  ls-type:: annotation
+  hl-page:: 269
+  id:: 62190be7-6e5e-42d1-a7d3-8f653abb090c
+  hl-type:: area
+  hl-stamp:: 1645808614758
+- [:span]
+  ls-type:: annotation
+  hl-page:: 282
+  id:: 621a2cc6-2e7a-493c-86ad-38a10cd7d3b2
+  hl-type:: area
+  hl-stamp:: 1645882564996
+- [:span]
+  ls-type:: annotation
+  hl-page:: 286
+  id:: 621a4be1-1255-485a-9b40-2ad4803466a0
+  hl-type:: area
+  hl-stamp:: 1645890527994
+- [:span]
+  ls-type:: annotation
+  hl-page:: 296
+  id:: 621a60bf-350f-4678-963f-011da9ec9deb
+  hl-type:: area
+  hl-stamp:: 1645895870313
+- [:span]
+  ls-type:: annotation
+  hl-page:: 310
+  id:: 621b7f2a-d18f-4721-8f72-9aec31410046
+  hl-type:: area
+  hl-stamp:: 1645969192704
+- [:span]
+  ls-type:: annotation
+  hl-page:: 314
+  id:: 621b9b6f-4340-40e0-95aa-d98f93a83c3f
+  hl-type:: area
+  hl-stamp:: 1645976430085
+- [:span]
+  ls-type:: annotation
+  hl-page:: 320
+  id:: 621bac08-96f3-4710-a7ff-fc0ab67270d2
+  hl-type:: area
+  hl-stamp:: 1645980679858
+- [:span]
+  ls-type:: annotation
+  hl-page:: 344
+  id:: 621bb50d-4f81-484f-9f98-93e1db02f004
+  hl-type:: area
+  hl-stamp:: 1645982988362
+- [:span]
+  ls-type:: annotation
+  hl-page:: 346
+  id:: 621bb5f5-c982-4121-9e51-43488e0d1b97
+  hl-type:: area
+  hl-stamp:: 1645983219754
+- [:span]
+  ls-type:: annotation
+  hl-page:: 349
+  id:: 621bb632-59af-46a8-ad9e-2a913f0616ee
+  hl-type:: area
+  hl-stamp:: 1645983280777

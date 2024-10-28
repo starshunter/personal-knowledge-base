@@ -1,0 +1,1 @@
+- enhanced for loop can walk through all the elements in the collections without creating the index variable

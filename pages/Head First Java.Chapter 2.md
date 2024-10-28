@@ -1,0 +1,6 @@
+- things an object knows about itself are called instance variables
+- things an object can do are called methods
+- a class is a blueprint for an object
+	- each object made from that class can have its own values for the instance variables of that class
+- ((624878f3-109a-458c-9c03-4bb2a5157dc7))
+	-

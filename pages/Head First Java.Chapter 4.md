@@ -1,0 +1,5 @@
+- a class describes what an object knows and what an object does
+- a method uses parameters, a caller passes arguments
+- java is pass-by-value
+- local variables do not get a default value, only instance variables do
+- use `==` to compare two primitives, and use `equals()` to see if two different objects are equal

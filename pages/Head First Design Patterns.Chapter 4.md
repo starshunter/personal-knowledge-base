@@ -1,0 +1,22 @@
+- if we program to concrete classes, i.e., use concrete classes to decide our program's logic flow, then our program is not closed for modification
+	- ((6218db46-a4b2-4fb0-95b1-61b92c87b0ec))
+	- to response to additional concrete class, we have no other way but to add more else statement
+- the factory method pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate, factory method lets a class defer instantiation to subclasses
+	- ((6218ff69-6275-49b1-9108-94fdfe17adcb))
+- depend upon abstractions, do not depend upon concrete classes
+	- high level components should not depend on low level components
+	- when a component directly instantiate an object, then that component is said to be dependent on that object's class
+	- ((6219058c-7efa-4f75-8886-b2308969cf5e))
+	- no variable should hold a reference to a concrete class
+	- no class should derive from a concrete class
+	- no method should override an implemented method of any of its base classes
+- an abstract factory gives us an interface for creating a family of products
+	- we can derive one or more concrete factories that produce the same products with different implementations
+	- by passing an abstract factory, we can produce different products depending on the concrete class at runtime, so we can leave our client code unchanged
+	- ((6219092d-7297-457c-b5e1-fdc524eaed4b))
+- an abstract factory pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes
+	- ((621909ca-3257-47b9-b976-e9e885ef45a2))
+- factory method and abstract factory compared
+	- ((62190b9c-fa6a-451b-9f9a-6bfbd9463ffa))
+	- ((62190ba7-7768-4cb2-8f79-7c7e1ea40d3c))
+- ((62190be7-6e5e-42d1-a7d3-8f653abb090c))

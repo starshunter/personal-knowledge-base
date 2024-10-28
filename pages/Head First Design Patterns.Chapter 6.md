@@ -1,0 +1,13 @@
+- ((621b7f2a-d18f-4721-8f72-9aec31410046))
+- ((621b9b6f-4340-40e0-95aa-d98f93a83c3f))
+- the command pattern encapsulates a request as an object, thereby letting you parameterize other objects with different requests, queue or log requests, and support undoable operations
+	- command object encapsulates a set of actions on a specific receiver, then exposes these actions through a method
+	- ((621bac08-96f3-4710-a7ff-fc0ab67270d2))
+- command pattern use cases
+	- queuing requests
+		- ((621bb50d-4f81-484f-9f98-93e1db02f004))
+		- threads don't care the purpose of the command, they just execute it through a method
+	- logging requests
+		- ((621bb5f5-c982-4121-9e51-43488e0d1b97))
+		- because actions are encapsulated into commands, so we can log these commands into log, and make recovery much more easier
+- ((621bb632-59af-46a8-ad9e-2a913f0616ee))

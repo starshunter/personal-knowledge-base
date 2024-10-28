@@ -1,0 +1,9 @@
+- ((62472376-992b-429d-9d78-10e528081706))
+- ((62472394-bf8e-4d69-8ec5-66791b843dbd))
+- code structure
+	- a source file holds one class definition
+	- a class has one or more methods
+	- a method contains instructions about how that method should work
+- JVM looks for the main method in the given class
+	- every java application should have at least one class, and at least one main method
+- compiler translates the code to bytecode, then JVM takes that bytecode and run it

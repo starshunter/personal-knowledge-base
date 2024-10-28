@@ -1,0 +1,22 @@
+- ((62581817-2f82-4320-a4ca-0dfa598398ee))
+- to read from or write to a socket, the procedure is similar to reading from and writing to a file
+	- get the stream from the socket, then make a buffer
+- a thread is a separate call stack
+	- in Java threads, execution can move back and forth between stacks so rapidly that we feel as though all stacks are executing at the same time
+	- three steps to launch a new thread
+		- make a runnable object
+		- make a thread object and give it a runnable
+		- start the thread
+	- a thread cannot be restarted
+- a runnable is the job a thread is supposed to run
+	- a runnable must implement the `Runnable` interface, which has one `run()` method
+- states of a threads
+	- runnable/running loop
+	- temporarily not-runnable
+- the scheduler decides which which tread can run for how long
+	- we can't base our program's correctness on the scheduler working in a particular way
+	- put a thread to sleep to ensure every thread gets its chance to execute
+- the `synchronized` keyword protect our data, synchronize the methods that act on that data
+	- every Java object ahs a lock, and a lock has only one key
+	- if an object has synchronized methods, a thread can enter one of the synchronized methods only if the key for the object's lock is available
+	- synchronized method has overhead and performance issue, also it may lead to deadlock

@@ -1,0 +1,14 @@
+- What is virtual member? #card
+	- Virtual member is a kind function define in base case, which base class expects derive classes to overrides the definition
+- How does the `protected` access specifier differ from `private`? #card
+	- If a derived class is a public inheritance of a base class, then that derived class can access members inside `protected` specifier, but cannot access members in `private` specifier. And members define in either one of these specifiers cannot be accessed outside of the inheritance hierarchy
+- What is static type and dynamic type? #card
+	- static type is the type that the variable is declared or that an expression yield
+	- dynamic type is the type of the object in memory that the variable or expression represents
+- When is it possible for an expression's static type to differ from its dynamic type? #card
+	- expression yield a base type pointer but actually return a derived type object
+	- expression yield a base type reference but actually return a derived type object
+- What kinds of classes need a virtual destructor? #card
+	- Classes that are at the root of a hierarchy need to have virtual destructor
+- What operations must a virtual destructor perform? #card
+	- It must allow a pointer or reference to call appropriate derived class destructor

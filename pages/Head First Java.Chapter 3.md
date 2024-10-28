@@ -1,0 +1,10 @@
+- Java variables come in primitive and object reference
+	- primitives hold fundamental values
+	- object references hold references to objects
+- ((62499186-d92d-4634-81f2-b4af0dc9c6e3))
+- assign a value to a new variable by
+	- typing a literal value after the equals sign
+	- assigning the value of one variable to another
+	- using an expression combining the two
+- objects live in garbage collectible heap, and we can only access them using variables that store object references
+- arrays are always objects, even if the array holds primitive type elements

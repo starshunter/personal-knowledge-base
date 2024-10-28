@@ -1,0 +1,21 @@
+- methods in Java use exceptions to tell the calling code that something is an error has occurred
+	- the methods use `throw` to throw an exception, and the methods should declare what type of exception may be threw
+	- the caller should use `try/catch` clauses while calling method that would possibly throw an exception
+	- an exception is an object of type `Exception`
+	- `RuntimeException` is not checked by the compiler
+		- because it is normally caused by flaws in the logic
+	- if the call to risky method succeeds, then the `catch` block will not execute, but if the call fails, then the remaining `try` block will not execute
+	- a `finally` block is where we put code that must run regardless of an exception
+		- `finally` block will still run even if there's a `return` statement in `try/catch` block
+			- the flow jump to `finally`, then back to the return
+	- a method can throw multiple exceptions
+- exceptions are polymorphic
+	- a method doesn't have to explicitly declare all possible exceptions it might throw, it can just declare their superclass
+		- same logic can apply to `catch` block
+	- we should write a different `catch` block for each exception that we need to handle uniquely
+	- multiple `catch` block must be ordered from smallest to biggest
+		- with `catch` block, JVM starts at the first one and works its way down until it finds a `catch` that's broad enough to handle the exception
+- if we don't want to handle an exception, just duck it by declaring it
+	- someone must deal with the exception by catching it
+	- if the `main()` duck the exception, the JVM will shut down
+- ((6254266b-ed77-4c5e-af84-6ae6d7b9c3fa))

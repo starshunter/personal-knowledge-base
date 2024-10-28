@@ -1,0 +1,9 @@
+- to separate source code files and class file, we can create a new directory and use `-d` flag to compile our classes into that directory
+- we can bundle all our files into a JAR file, and make a JAR executable so that end user can execute our program
+	- use `java -jar *.jar` to execute JAR file
+- packages can prevent name conflicts
+	- choose an unique package name
+	- put a package statement at the first line of every source code file
+	- make sure the directory structure matches the package name
+- compile the package using `-d` flag, and execute it by specifying the package name
+- to make a JAR for our package, we need to go into the `classes` directory and create a manifest, then we can make a JAR file

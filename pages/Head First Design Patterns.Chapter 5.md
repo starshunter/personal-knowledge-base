@@ -1,0 +1,10 @@
+- ((621a2cc6-2e7a-493c-86ad-38a10cd7d3b2))
+- the singleton pattern ensures a class has only one instance, and provides a global point of access to it
+	- other classes cannot create an instance of the class, only the class itself can instantiate a new instance
+	- the class provides an access point to the instance
+	- ((621a4be1-1255-485a-9b40-2ad4803466a0))
+- multithreading may still cause multiple instances being created
+	- make the whole get instance method synchronized is time expensived
+	- create an instance with a static variable
+	- first check if the instance is created, then execute synchronized operation
+- ((621a60bf-350f-4678-963f-011da9ec9deb))

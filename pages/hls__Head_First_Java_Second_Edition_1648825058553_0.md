@@ -1,0 +1,136 @@
+file-path:: ../assets/Head_First_Java_Second_Edition_1648825058553_0.pdf
+file:: [Head_First_Java_Second_Edition_1648825058553_0.pdf](../assets/Head_First_Java_Second_Edition_1648825058553_0.pdf)
+title:: hls__Head_First_Java_Second_Edition_1648825058553_0
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 36
+  id:: 62472376-992b-429d-9d78-10e528081706
+  hl-type:: area
+  hl-stamp:: 1648829301087
+- [:span]
+  ls-type:: annotation
+  hl-page:: 37
+  id:: 62472394-bf8e-4d69-8ec5-66791b843dbd
+  hl-type:: area
+  hl-stamp:: 1648829331588
+- [:span]
+  ls-type:: annotation
+  hl-page:: 75
+  id:: 624878f3-109a-458c-9c03-4bb2a5157dc7
+  hl-type:: area
+  hl-stamp:: 1648916722368
+- [:span]
+  ls-type:: annotation
+  hl-page:: 85
+  id:: 62499186-d92d-4634-81f2-b4af0dc9c6e3
+  hl-type:: area
+  hl-stamp:: 1648988549605
+- [:span]
+  ls-type:: annotation
+  hl-page:: 166
+  id:: 624d8cc2-d944-4b77-bb6d-3ff6d2b2ded0
+  hl-type:: area
+  hl-stamp:: 1649249473477
+- [:span]
+  ls-type:: annotation
+  hl-page:: 215
+  id:: 624f0046-9975-4210-bdcc-48e05754b592
+  hl-type:: area
+  hl-stamp:: 1649344581331
+- [:span]
+  ls-type:: annotation
+  hl-page:: 219
+  id:: 624f0908-ec29-4f78-9e59-85917d8a1e1d
+  hl-type:: area
+  hl-stamp:: 1649346823637
+- [:span]
+  ls-type:: annotation
+  hl-page:: 261
+  id:: 62505301-1031-4b58-afa4-5bf20ad18d2c
+  hl-type:: area
+  hl-stamp:: 1649431295901
+- [:span]
+  ls-type:: annotation
+  hl-page:: 270
+  id:: 62517345-5339-4789-8ef6-d4b577b82528
+  hl-type:: area
+  hl-stamp:: 1649505092430
+- [:span]
+  ls-type:: annotation
+  hl-page:: 281
+  id:: 6251787a-c9ff-4070-9936-4bac7a49eead
+  hl-type:: area
+  hl-stamp:: 1649506424698
+- [:span]
+  ls-type:: annotation
+  hl-page:: 284
+  id:: 62518009-5be0-4976-bc46-ccfce55389b4
+  hl-type:: area
+  hl-stamp:: 1649508359932
+- [:span]
+  ls-type:: annotation
+  hl-page:: 293
+  id:: 625183a6-21c0-417f-997f-d7c1c8791caa
+  hl-type:: area
+  hl-stamp:: 1649509285224
+- [:span]
+  ls-type:: annotation
+  hl-page:: 316
+  id:: 6252ccf0-e383-4a0a-bc00-489ab613fb19
+  hl-type:: area
+  hl-stamp:: 1649593583655
+- [:span]
+  ls-type:: annotation
+  hl-page:: 372
+  id:: 6254266b-ed77-4c5e-af84-6ae6d7b9c3fa
+  hl-type:: area
+  hl-stamp:: 1649682026230
+- [:span]
+  ls-type:: annotation
+  hl-page:: 393
+  id:: 6255747f-a3ee-4f77-972e-5517bf2ab93b
+  hl-type:: area
+  hl-stamp:: 1649767550014
+- [:span]
+  ls-type:: annotation
+  hl-page:: 395
+  id:: 625575cb-948f-413d-8789-8b3a068917df
+  hl-type:: area
+  hl-stamp:: 1649767882639
+- [:span]
+  ls-type:: annotation
+  hl-page:: 411
+  id:: 62558d05-06a2-49c7-bdd6-2e346a1eb256
+  hl-type:: area
+  hl-stamp:: 1649773827892
+- [:span]
+  ls-type:: annotation
+  hl-page:: 467
+  id:: 6256dd45-739d-45cb-b25f-5006b6c06dd5
+  hl-type:: area
+  hl-stamp:: 1649859908370
+- [:span]
+  ls-type:: annotation
+  hl-page:: 468
+  id:: 6256dd70-163b-444f-8007-d4c603aab6fb
+  hl-type:: area
+  hl-stamp:: 1649859950893
+- [:span]
+  ls-type:: annotation
+  hl-page:: 476
+  id:: 6256e269-9efe-44a0-8f48-de5075581eae
+  hl-type:: area
+  hl-stamp:: 1649861224725
+- [:span]
+  ls-type:: annotation
+  hl-page:: 508
+  id:: 62581817-2f82-4320-a4ca-0dfa598398ee
+  hl-type:: area
+  hl-stamp:: 1649940502039
+- [:span]
+  ls-type:: annotation
+  hl-page:: 592
+  id:: 625973e4-3bc7-4f04-a751-2e9b00bad005
+  hl-type:: area
+  hl-stamp:: 1650029538982

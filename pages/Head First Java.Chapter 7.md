@@ -1,0 +1,20 @@
+- when one class inherits from another, the subclass inherits from the superclass
+- subclass can add new methods and instance variables of its own, and it can override the methods it inherits from the superclass
+- when we call a method on an object reference, we are calling the lowest method in the inheritance hierarchy
+- use IS-A and HAS-A test to determine inheritance hierarchy
+- use `super.method()` to access superclass's method in subclass method
+- access levels control who sees what
+	- public members are inherited
+	- private members are note inherited
+- use inheritance when one class is a more specific type of a superclass
+- consider inheritance when you have behavior that should be shared among multiple classes of the same general type
+- don't use inheritance just so that you can reuse code from another class
+- don't use inheritance if the subclass and superclass don't pass the IS-A test
+- ((624f0046-9975-4210-bdcc-48e05754b592))
+- inheritance lets you guarantee that all classes grouped under a certain supertype have all the methods that supertype has
+- ((624f0908-ec29-4f78-9e59-85917d8a1e1d))
+	- the reference type can be the superclass of the actual object type
+- with polymorphism, you can write code that doesn't have to change when you introduce new subclass types into the program
+- the override method should have the same arguments and return types as the overridden method
+	- the method also cannot be less accessible
+- an overloaded method is just a different method that happens to have the same method name

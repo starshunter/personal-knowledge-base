@@ -1,0 +1,10 @@
+- 3 easy, 5 medium, 1 hard this month
+- 5 problems were solved for the first time
+- [Sequential Digits](((61f542d9-0ea9-41bc-9b4c-a866c892b922))) has a not-so-intuitive solution using BFS, while I used two pointers to solve it
+- [All Elements in Two Binary Search Trees](((61f542da-3286-4190-9802-c26efe338ee9))) reminded me that I'm not familiar with iterated approach of traversing binary tree, need to [learn it](((61f542da-f33e-489a-a87d-c80dc7f3de06))) again
+- [Maximum XOR of Two Numbers in an Array](((61f542da-fa82-497f-9e1d-752b646180a8))) is a problem I fail to solve it without hesitation, maybe writing a post would help
+- [Design Add and Search Words Data Structure](((61f542da-5b7e-462d-bbfa-6ea9a547157b))) reminded me I wasn't familiar with initializer list in C++, so I did a little [research](((61f542da-ef5a-4cb3-9690-e635d3dde586)))
+- [Largest Rectangle in Histogram](((61f54344-4e73-44e6-bd11-0b31b51bcec7))) is the hardest problem I solved this month, turns out didn't require special technique, just monotonic stack
+- [Rotate Array](((3aaf91a5-581f-423f-b3da-286b974d4885))) is another problem that I didn't fully grasp the concept of the solution previously, I tried to wrote down the intuition of the problem that will help me to understand in the future
+-
+-

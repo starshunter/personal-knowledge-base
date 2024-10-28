@@ -1,0 +1,26 @@
+- inherit all derived classes from a super class may result in the inheritance of some undesired behavior in some derived classes
+	- ((62150d63-b077-4ff2-9dd7-45e4767ebc79))
+	- override in each such derived class is annoying
+- add different interfaces and let classes implement them may solve the above problem, but it will also introduce more problem
+	- ((62150dd0-a25b-4603-9e93-85c3a90b3e55))
+	- result in duplicated code and thus hard to maintain
+- identify the aspects of your application that vary and separate them from what stays the same
+	- take the parts that vary and encapsulate them, so that later you can alter or extend the parts that vary without affecting those that don't
+	- ((62151357-bbf3-4a22-9809-4ea9c8d8f758))
+- program to an interface, not an implementation
+	- don't rely on concrete implementation in superclass, or specialized implementation in subclass
+	- ((6215147c-17fa-4ee4-b2ce-ef22a6f49829))
+		- the unchanged part (Duck class) doesn't have to know the implementation of its varying part (Behavior class)
+	- use polymorphism by programming to a supertype so the concrete implementation at runtime can vary
+	- ((621517c1-ec54-4173-97fe-c36979450e21))
+		- ((62151810-7195-4de1-80ef-c11d9da25ef1))
+	- ((62151a50-1c2f-4e3d-a3e3-063719f4288c))
+	- this is the strategy pattern
+- favor composition over inheritance
+	- extract behaviors out of the class
+	- allows us to encapsulate a family of algorithms into their own set of classes, and lets us change behavior at runtime
+- learning patterns allows developers to communicate in a uniform way
+	- increase communication efficiency
+	- keep the discussion at higher level
+- design patterns go into our brain first, then they go into our code
+- ((62151e6f-6b14-47a8-9a10-010e34e2ffb9))
